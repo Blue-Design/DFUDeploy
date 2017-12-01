@@ -1,0 +1,11 @@
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\STDFU.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\STDFUFiles.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\STDFUPRT.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\STTubeDevice30.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\DFUDeploy.exe
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\DFUDeploy.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\NetFULib.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Debug\NetFULib.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Debug\DFUDeploy.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Debug\DFUDeploy.exe
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Debug\DFUDeploy.pdb

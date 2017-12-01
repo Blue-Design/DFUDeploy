@@ -1,0 +1,11 @@
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\STDFU.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\STDFUFiles.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\STDFUPRT.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\STTubeDevice30.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\DFUDeploy.exe
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\DFUDeploy.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\NetFULib.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\bin\Release\NetFULib.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Release\DFUDeploy.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Release\DFUDeploy.exe
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\DFUDeploy\obj\x86\Release\DFUDeploy.pdb
