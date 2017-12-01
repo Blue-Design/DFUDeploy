@@ -1,0 +1,9 @@
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\NetFULib.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\NetFULib.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\obj\Debug\NetDFULib.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\obj\Debug\NetFULib.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\obj\Debug\NetFULib.pdb
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\STDFU.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\STDFUFiles.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\STDFUPRT.dll
+C:\Users\Brien\Documents\NetDFU-20130309a\NetDFU\NetDFULib\bin\Debug\STTubeDevice30.dll
